@@ -1,0 +1,26 @@
+{
+    "name": "simqel/simqel",
+    "type": "library",
+    "description": "Test",
+    "license": "",
+    "authors": [
+        {
+            "name": "kwiatek5",
+            "email": "kwiatek5@vp.pl"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "replace": {
+
+    },
+    "require-dev": {
+
+    },
+    "autoload": {
+        "classmap": []
+    },
+    "minimum-stability": "dev",
+    "extra": {}
+}
